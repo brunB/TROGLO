@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-09T17:53:30.920Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="h57aZ58px_B-aO31uVD0" version="20.8.3" type="github" pages="4">
+<mxfile modified="2023-01-09T18:31:26.120Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NG6frDDNdMWxmMvKs54O" version="20.8.3" type="github" pages="4">
   <diagram id="5N7a6OaGEV1y8yAyVuh0" name="architecture physique">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,6 +429,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6QPx05W1QIAOl8IiznpH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.914;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6QPx05W1QIAOl8IiznpH-13" target="lPsCcFhJE5dXn33SxHTI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6QPx05W1QIAOl8IiznpH-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="665" y="487.5" width="125" height="125" as="geometry" />
+        </mxCell>
         <mxCell id="lPsCcFhJE5dXn33SxHTI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.955;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lPsCcFhJE5dXn33SxHTI-49" target="lPsCcFhJE5dXn33SxHTI-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -581,6 +587,15 @@
         </mxCell>
         <mxCell id="6QPx05W1QIAOl8IiznpH-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" vertex="1" parent="1">
           <mxGeometry x="460" y="152" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="6QPx05W1QIAOl8IiznpH-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_wifi_profiles" vertex="1" parent="1">
+          <mxGeometry x="706" y="560" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QPx05W1QIAOl8IiznpH-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_wifi_profiles" vertex="1" parent="1">
+          <mxGeometry x="706" y="500" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QPx05W1QIAOl8IiznpH-16" value="Répétiteurs Wifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="457.5" width="91.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
